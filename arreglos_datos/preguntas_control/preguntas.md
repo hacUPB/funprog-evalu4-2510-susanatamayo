@@ -14,4 +14,4 @@
 |¿Cómo están almacenados en la memoria los elementos de una matriz?| Las matrices en C se almacenan en memoria de manera contigua por filas (row-major). Es decir: primero todos los elementos de la primera fila, luego los de la segunda, y así sucesivamente. |
 | ¿Qué precauciones se deben tomar al usar punteros para recorrer arreglos?|No acceder fuera del rango del arreglo, Asegúrate de que el puntero esté inicializado y válido, No mover el puntero más allá del final del arreglo, Presta atención al orden de las operaciones con punteros, Usa ```const``` si no vas a modificar los datos.
 
-|
+
