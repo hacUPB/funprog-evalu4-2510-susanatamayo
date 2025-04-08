@@ -1,3 +1,4 @@
+// Ejercicio 5
 //- Crear un arreglo unidimensional para almacenar notas de 24 estudiantes.
 //- Escribir una función para calcular:
 //- El promedio general del curso.
