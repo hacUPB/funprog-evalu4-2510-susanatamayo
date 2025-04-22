@@ -2,7 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
-   int Datos[5]= {45, 32, 89, 11,9};
+   int Datos[5]= {45, 32, 89, 11, 9};
 
    printf("%d\n", Datos[2]); // Indice 2 corresponde al 89
 
@@ -13,4 +13,4 @@ int main(int argc, char const *argv[])
   }
 
    return 0;
-}
+} 
