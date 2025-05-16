@@ -24,14 +24,9 @@ int main() {
             caracteres++; // No contamos '\n' como carácter
         }
 
-        // Contar espacios
-        if (c == ' ') {    //Si el carácter es un espacio, se incrementa el contador de espacios.
-            espacios++;
-        }
-
         // Contar palabras
         if (isspace(c)) {  //detecta si c es un carácter de espacio (puede ser ' ', '\n', '\t', etc.).
-            en_palabra = 0;
+            en_palabra = 0; espacios++;
         } else if (!en_palabra) { //Si estamos en un espacio, terminamos la palabra actual (en_palabra = 0)
             en_palabra = 1;
             palabras++;
