@@ -179,7 +179,7 @@ Conexión: Se activa desde el menú cuando el usuario decide guardar su trabajo
 | Entrada | `textoFinal`    | Texto final a guardar (`char*`)                                      |
 | Salida  | `void`          | No retorna valor, solo genera el archivo de salida                   |
 
-## 4. 
-![Pseudocodigo](<Imagenes/Pseudocodigo reto 4.jpg>))
-
+## 4. Diagramas, esquemas o pseudocódigo:
+![Pseudocodigo](<Imagenes/Pseudocodigo reto 4.jpg>)
+![Diagrama](<Imagenes/Diagrama reto 4.drawio.png>)
 
